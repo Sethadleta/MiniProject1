@@ -42,7 +42,7 @@ class Main {
       numTries++;
     }
     if (numTries > 1) {
-      System.out.println("You win! It took you " + numTries + " tries.");
+      System.out.println("You win! It took you " + numTries + " tries!");
       }
       else {
         System.out.println("Congrats, you win! It only took you " + numTries + " try!");
