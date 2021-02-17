@@ -1,3 +1,9 @@
+/*
+Mini Project 1
+Group 3: Seth Adleta, Kyle Troyer, Luke Greely, Peter Winter
+Date: February 17th 2021
+*/
+
 import java.util.Scanner;
 import java.util.Random;
 
